@@ -1,2 +1,2 @@
-# Trabalho realizado na linguagem Python
-## Utilizando o github para controlar versões de códigos.
+# Base de dados
+## Espaço para armazenamento de bases de dados para utilização nas aulas de Tópicos Avançados.
